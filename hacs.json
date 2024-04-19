@@ -1,5 +1,8 @@
 {
-  "name": "Green Button integration",
-  "homeassistant": "2022.11.1",
-  "render_readme": true
+    "name": "Green Button integration",
+    "filename": "home-assistant-green-button.zip",
+    "hide_default_branch": true,
+    "homeassistant": "2023.8.0",
+    "render_readme": true,
+    "zip_release": true
 }
